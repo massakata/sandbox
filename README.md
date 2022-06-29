@@ -1,3 +1,3 @@
 # sandbox
 
-Test repository for github actions
+Test repository for github actions.
